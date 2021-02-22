@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://x30n.github.io/c0nfusion/about/</loc>
     <lastmod>2021-02-10T09:56:45-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hello-world/</loc>
+    <loc>https://x30n.github.io/c0nfusion/tags/hello-world/</loc>
     <lastmod>2021-02-08T14:11:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://x30n.github.io/c0nfusion/</loc>
     <lastmod>2021-02-08T14:11:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://x30n.github.io/c0nfusion/posts/</loc>
     <lastmod>2021-02-08T14:11:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2021/02/resurrection/</loc>
+    <loc>https://x30n.github.io/c0nfusion/posts/2021/02/resurrection/</loc>
     <lastmod>2021-02-08T14:11:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://x30n.github.io/c0nfusion/tags/</loc>
     <lastmod>2021-02-08T14:11:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://x30n.github.io/c0nfusion/archives/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://x30n.github.io/c0nfusion/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://x30n.github.io/c0nfusion/search/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://x30n.github.io/c0nfusion/series/</loc>
   </url>
   
 </urlset>
