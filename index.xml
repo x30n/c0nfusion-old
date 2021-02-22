@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesse D&#39;Aguanno</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Jesse D&#39;Aguanno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jesse D&#39;Aguanno</copyright>
+    <lastBuildDate>Mon, 08 Feb 2021 14:11:04 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 10 Feb 2021 09:56:45 -0500</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Jesse! 👋
+(Some people know me as x30n)
+I&amp;rsquo;m a hacker - mostly interested in vulnerability research, reverse engineering, exploit development, and cryptography. I&amp;rsquo;ve been hacking things since I was a teenager (which explains my 1337 handle 😂) in the late &amp;rsquo;90s - the golden age of hacking.
+I used to play a lot of CTFs. My team, Digital Revelation (or digrev), and I played regularly in DEF CON CTF for about seven years (we won twice!</description>
+    </item>
+    
+    <item>
+      <title>Resurrection</title>
+      <link>https://example.com/posts/2021/02/resurrection/</link>
+      <pubDate>Mon, 08 Feb 2021 14:11:04 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2021/02/resurrection/</guid>
+      <description>Around the year 2000, I got my first always on (ADSL) internet connection at home. I was working as a sysadmin and programmer at the time for the high school I&amp;rsquo;d just graduated from (we actually provided technology services and operated a full fledged ISP for a number of other schools across California).
+Anyway, once I had stable internet access (with a static IP!) at home, I of course had to stake my claim on the internet.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>

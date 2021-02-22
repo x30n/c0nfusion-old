@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Jesse D&#39;Aguanno</title>
+        <link>https://example.com/posts/</link>
+        <description>Recent content in Posts on Jesse D&#39;Aguanno</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Jesse D&#39;Aguanno</copyright>
+        <lastBuildDate>Mon, 08 Feb 2021 14:11:04 -0500</lastBuildDate>
+        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Resurrection</title>
+            <link>https://example.com/posts/2021/02/resurrection/</link>
+            <pubDate>Mon, 08 Feb 2021 14:11:04 -0500</pubDate>
+            
+            <guid>https://example.com/posts/2021/02/resurrection/</guid>
+            <description>Around the year 2000, I got my first always on (ADSL) internet connection at home. I was working as a sysadmin and programmer at the time for the high school I&amp;rsquo;d just graduated from (we actually provided technology services and operated a full fledged ISP for a number of other schools across California).
+Anyway, once I had stable internet access (with a static IP!) at home, I of course had to stake my claim on the internet.</description>
+            <content type="html"><![CDATA[<p>Around the year 2000, I got my first always on (ADSL) internet connection at home. I was working as a sysadmin and programmer at the time for the high school I&rsquo;d just graduated from (we actually provided technology services and operated a full fledged ISP for a number of other schools across California).</p>
+<p>Anyway, once I had stable internet access (with a static IP!) at home, I of course had to stake my claim on the internet. I rescued an old PC from the trash at work, installed Linux, plugged it in in my bedroom closet, and c0nfusion.org was born! It was my personal email domain, personal warez dump, and of course homepage.</p>
+<p><img src="/c0nfusion-screen.png" alt="original c0nfusion.org homepage"></p>
+<p>Hahaha 😂 So dramatic. I think I&rsquo;d read The Mentor&rsquo;s &ldquo;Hacker&rsquo;s Manifesto&rdquo; a few too many times.</p>
+<p>Also, those green &lsquo;pills&rsquo; were so hot! So many hours in Photoshop trying to perfect that look from the OS X beta&rsquo;s Aqua interface.</p>
+<p>After a few years I got tired of sysadmining my personal email though, and c0nfusion slowly died.</p>
+<p>&hellip; until now.</p>
+<h3 id="its-alive">It&rsquo;s alive!</h3>
+<p>In a moment of nostalgia recently, I decided to bring c0nfusion.org back to life after almost 20 years in the grave.</p>
+<p>I don&rsquo;t know what I&rsquo;ll end up doing with this, but I&rsquo;ve been wanting to do some personal blogging and this seems like a decent place to do it. I&rsquo;ve got a bunch of little topics that don&rsquo;t fit neatly anywhere else, so we&rsquo;ll see what comes out.</p>
+<p>Cheers - x30n</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
