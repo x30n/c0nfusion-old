@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jesse D&#39;Aguanno</title>
-    <link>https://x30n.github.io/c0nfusion/categories/</link>
+    <link>https://c0nfusion.org/categories/</link>
     <description>Recent content in Categories on Jesse D&#39;Aguanno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Jesse D&#39;Aguanno</copyright><atom:link href="https://x30n.github.io/c0nfusion/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Jesse D&#39;Aguanno</copyright><atom:link href="https://c0nfusion.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

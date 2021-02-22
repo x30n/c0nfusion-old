@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jesse D&#39;Aguanno</title>
-    <link>https://x30n.github.io/c0nfusion/tags/</link>
+    <link>https://c0nfusion.org/tags/</link>
     <description>Recent content in Tags on Jesse D&#39;Aguanno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jesse D&#39;Aguanno</copyright>
-    <lastBuildDate>Mon, 08 Feb 2021 14:11:04 -0500</lastBuildDate><atom:link href="https://x30n.github.io/c0nfusion/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Feb 2021 14:11:04 -0500</lastBuildDate><atom:link href="https://c0nfusion.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello world</title>
-      <link>https://x30n.github.io/c0nfusion/tags/hello-world/</link>
+      <link>https://c0nfusion.org/tags/hello-world/</link>
       <pubDate>Mon, 08 Feb 2021 14:11:04 -0500</pubDate>
       
-      <guid>https://x30n.github.io/c0nfusion/tags/hello-world/</guid>
+      <guid>https://c0nfusion.org/tags/hello-world/</guid>
       <description></description>
     </item>
     
